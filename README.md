@@ -34,9 +34,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 </ol>
 <h3>Out ouput will be look like this</h3>
 <img width="401" alt="Screenshot 2022-10-04 163211" src="https://user-images.githubusercontent.com/80329368/193803238-bd967006-158d-4c1e-992b-5100adb5e211.png">
-<img width="401" alt="Screenshot 2022-10-04 163237" src="https://user-images.githubusercontent.com/80329368/193803250-15357c25-552a-4f65-9ab4-ea5
-<img width="402" alt="Screenshot 2022-10-04 163326" src="https://user-images.githubusercontent.com/80329368/193803261-336276e3-7acf-4183-9665-c2da9992fde9.png">
-8e32dee36.png">
+<img width="401" alt="Screenshot 2022-10-04 163237" src="https://user-images.githubusercontent.com/80329368/193803533-3b3741a3-dc46-4ff0-ae18-2413739d7a2e.png">
 <p>this is my first javafx project i get lots of tuff because its setup took much more time atlast i finished</p>
 <h3>RUNNING SETUP</h3>
 <ul>
